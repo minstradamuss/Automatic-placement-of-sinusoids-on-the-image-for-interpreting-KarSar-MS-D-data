@@ -12,9 +12,9 @@
 На практике (т.е. на .bmp картинках) данный метод показывает себя значительно лучше, чем предыдущий.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1a227dd0-9012-4a2a-a449-1befa41bb642" width="500" />
+  <img src="https://github.com/user-attachments/assets/1a227dd0-9012-4a2a-a449-1befa41bb642" width="600" />
   <span style="margin-right: 20px;"></span>
-  <img src="https://github.com/user-attachments/assets/bbaf961b-7fbc-46b0-aebe-04f4caeb89c4" width="500" />
+  <img src="https://github.com/user-attachments/assets/bbaf961b-7fbc-46b0-aebe-04f4caeb89c4" width="600" />
 </p>
 
 ## Итог на текущий момент
